@@ -1,7 +1,11 @@
 # Bank Customer Segmentation and Predictive Analytics
 
+<div align="center">
+  <img src="banner.png" alt="Bank Customer Segmentation Banner" width="100%">
+</div>
+
 ## 📌 Project Overview
-This project performs an end-to-end data analysis and machine learning pipeline on bank customer data. The primary goals are to understand customer behaviors through Exploratory Data Analysis (EDA) and clustering, and to build robust predictive models capable of forecasting future customer interactions or identifying key target segments. The dataset features significant class imbalance, which is addressed using SMOTE.
+This project performs an end-to-end data analysis and machine learning pipeline on a real-world Portuguese bank dataset. The primary goals are to understand customer behaviors through Exploratory Data Analysis (EDA) and clustering, and to build robust predictive models capable of forecasting future customer interactions or identifying key target segments. The dataset features significant class imbalance, which is addressed using SMOTE.
 
 ## 📂 Repository Structure
 
