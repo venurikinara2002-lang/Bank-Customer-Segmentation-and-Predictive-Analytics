@@ -5,7 +5,13 @@
 </div>
 
 ## 📌 Project Overview
-This project performs an end-to-end data analysis and machine learning pipeline on a real-world Portuguese bank dataset. The primary goals are to understand customer behaviors through Exploratory Data Analysis (EDA) and clustering, and to build robust predictive models capable of forecasting future customer interactions or identifying key target segments. The dataset features significant class imbalance, which is addressed using SMOTE.
+This project performs an end-to-end data analysis and machine learning pipeline on a real-world Portuguese bank dataset. It is primarily a **classification project**, aimed at predicting whether a customer will subscribe to a term deposit based on their demographic information and past campaign interactions. Through Exploratory Data Analysis (EDA), clustering, and predictive modeling (handling class imbalance via SMOTE), the project identifies key target segments and forecasts customer behaviors.
+
+## 💼 Business Value
+- **Optimized Marketing Campaigns**: By accurately predicting which customers are most likely to subscribe to a term deposit, the bank can target its telemarketing efforts more effectively, reducing costs and caller fatigue.
+- **Improved Conversion Rates**: Tailoring marketing strategies based on data-driven customer segmentation ensures higher engagement and better conversion rates.
+- **Resource Allocation**: Identifying non-subscribers early allows the business to allocate human and financial resources to high-value prospects.
+- **Enhanced Customer Experience**: Reducing unsolicited calls to unlikely subscribers minimizes customer annoyance and improves the bank's overall brand perception.
 
 ## 📂 Repository Structure
 
